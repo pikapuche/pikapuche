@@ -1,13 +1,5 @@
-- 👋 Hi, I’m @pikapuche
-- 👀 I’m interested in programming video game
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- ⚡ Fun fact: ...
-
-if you read this i will finish it later
-
-<!---
-pikapuche/pikapuche is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello everyone, I'm Quentin.
+- 🖥️ I am a student in Video Game Programming at the Gaming Campus in Paris, specializing in the G-TECH program.
+- 🎸 I am also passionate about music, specifically guitar and singing (French Variety, Rock).
+- 🔎 I am looking for a 2-month internship from May 5 2025, to September 2025.
+- 📩 You can contact me by email at this address :
