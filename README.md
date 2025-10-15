@@ -1,5 +1,5 @@
 - 👋 Hello everyone, I'm Quentin.
 - 🖥️ I am a student in Game Development at Gaming Campus in Paris, specializing in the G-TECH program.
 - 🎸 I am also passionate about music, specifically guitar and singing (French Variety, Rock).
-- 🔎 I am looking for a 2-month internship from May 5 2025, to September 2025.
-- 📩 You can contact me by email at this address :
+- 🔎 I am looking for a 2-month internship from May 2026, to September 2026.
+- 📩 You can contact me by email at this address : qlopes@gaming.tech
